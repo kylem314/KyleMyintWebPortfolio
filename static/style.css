@@ -1,0 +1,98 @@
+#team-pic {
+      float: center;
+      margin: 10px;
+  }
+#headerOne {
+
+  top: 350px;
+  padding: 110px ;
+  text-align: center;
+  color: #ec4d26;
+
+}
+.center{
+  float: center;
+  padding: -20px ;
+  margin: auto;
+  text-align: center;
+  color: #ec4d26;
+  font-size: 60;
+}
+#tableOne {
+
+      top: 70px;
+      padding: 10px ;
+      margin: auto;
+      text-align: center;
+
+}
+#tableTwo {
+
+      top: 90px;
+      padding: 10px ;
+      margin: auto;
+      text-align: center;
+
+}
+.barOne{
+  background-color: rgb(255, 108, 181);
+}
+.barTwo{
+  background-color: rgba(16, 204, 57, 0.514);
+}
+html, body {
+  margin: 0;
+  height: 100%;
+  color: green;
+  position:absolute;
+}
+
+h1{
+  font-size: 2.6em;
+}
+
+
+.fa{
+  font-size: 1em;
+  letter-spacing: 1em;
+  transition: all .2s;
+  color: green;
+}
+.btn:link,
+.btn:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 15px 40px;
+  display: inline-block;
+  border-radius: 100px;
+  transition: all .2s;
+  position: absolute;
+  color: #4169e1;
+  font-size: 0.75em;
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 20px 40px rgba(255, 255, 255, 0.2);
+}
+
+.btn:active {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 10px rgba(255, 255, 255, 0.2);
+}
+p {
+  text-align: center;
+  font-size: -1em
+}
+col-4 {
+  font-size: -3em
+}
+
+#background {
+  right-margin: auto;
+  left-margin: auto;
+  z-index: -10;
+  top: 0%;
+  float: left;
+  position: absolute;
+}
